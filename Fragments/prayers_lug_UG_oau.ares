@@ -34,6 +34,12 @@ enarxis01 = "Agulumizibwa Katonda waffe bulijjo, kaakano naddi, n'okutuusa emire
 
 pet00 = "Twegayirire Mukama."
 
+petConf1 = "Olw’omuweereza (omuzaana) wa Katonda (Erinnya lye), okukisibwa kw’ebibi bye era n’okusonyiyibwa ebisobyo bye byonna ebigendere n’ebitali bigenderere, twegayirire Mukama."
+
+petConf2 = "Bwatyo Mukama Katonda amuwe ekisonyiwo ky’ebibi n’akadde k’okwenenya, twegayirire Mukama."
+
+petConf3 = "Bwetutyo, naye tusobole okujjibwa mu kunyigirizibwa, ekiruyi, emitawaana n’obwetaavu, twegayirire Mukama."
+
 res01 = "Mukama saasira."
 
 res04 = "Amiina."
