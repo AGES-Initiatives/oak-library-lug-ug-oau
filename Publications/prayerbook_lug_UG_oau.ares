@@ -94,7 +94,6 @@ prbk.enteringchurch.text = "Nnayingiranga mu Nnyumba yo mu bungi bw'okusaasira k
 prbk.leavingchurch.title = "Essaala ng'ofuluma Ekklesia" // see leosVE.Prayer_NynApolyeis.text for the text of this prayer
 
 prbk.iconchrist.title = "Essaala mu maaso g'Ekifaananyi kya Kristo"
-prbk.iconchrist.text = "Ekifaananyi kyo ekitukuvu, tukivunnamira Ayi Omutuukirivu, nga ffe bwe tukusaba ekisonyiwo ky'obusobya bwaffe, Kristo Katonda; kuba wakkiriza, n'osiima okukomererwa ku musaalaba ng'omuntu: onunule ababumbe bo okuva mu buddu obw'omulabe waffe. Mu ssanyu tukuyimbira, byonna Mulokozi wabijjuza essanyu."
 Jesusprayer.title = "Essaala ya Yesu"
 Jesusprayer.text = "Ayi Yesu Kristo, Omwana wa Katonda beera wa kisa, onsaasire era ondokole nze omwonoonyi."
 prbk.icontheotokos.title = "Essaala mu maaso g'Ekifaananyi kya Nnyina Katonda"
